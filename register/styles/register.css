@@ -1,0 +1,61 @@
+/*home external css*/
+* {
+	font-family: 'Roboto', sans-serif;
+	/*background: transparent;*/
+	/*color: #152847;*/
+	color: #FF9E5E;
+}
+body {
+	background-image: url(../../img/home-bg.png);
+	background-size: cover;
+
+}
+.nav-link {
+	color: #FF9E5E;
+	text-decoration: none;
+	font-weight: bold;
+}
+.nav-link:hover {
+	color: linen;
+	transition: 0.05s;
+}
+
+.bg-nav {
+	background-color:/*#171515*/ #D6D3D3;
+	font-weight: bold;
+	
+}
+
+#logo {
+	width: 185px;
+	height: 65px;
+}
+.row-height {
+	height: 90vh;
+}
+
+.f-height {
+	height: 10vh;
+}
+
+.mt-6 {
+	margin-top: 100px;
+}
+
+.grp-btn {
+	background-color: #253D60;
+	color: linen;
+	/*font-weight: bold;*/
+	letter-spacing: 1px;
+	width: 150px;
+	hyphens: 20px;
+}
+.btn:hover {
+	color: #EB9027;
+	transition: 0.05s;
+
+}
+.btn:active {
+	color: #EB9027;
+	
+}

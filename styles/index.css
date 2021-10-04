@@ -1,0 +1,32 @@
+/*Kklown External*/
+*{
+	background-color: black;
+	font-family: 'Public Sans', sans-serif;
+	/*font-family: 'Roboto', sans-serif;*/
+	color: linen;
+}
+#landing {
+	background-image: url(../img/kklwnbg.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.row-height {
+	height: 100vh;
+}
+
+.img-size {
+	width: 425px;
+	height: 127px;
+}
+#shopnow {
+	background-color: #FF9E5E;
+	font-weight: bold;
+}
+
+a:link, a:visited {
+	text-decoration: none;
+	color: white;
+}
+a:hover, a:active {
+  background-color: #FF5757;
+}

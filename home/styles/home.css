@@ -1,0 +1,98 @@
+/*home external css*/
+* {
+	font-family: 'Roboto', sans-serif;
+	/*background: transparent;*/
+	/*color: #152847;*/
+	color: #FF9E5E;
+}
+body {
+	background-color: #222020;
+
+}
+.navbar-nav >  li > a{
+		color: #FF9E5E;
+	text-decoration: none;
+	font-weight: bold;
+
+}
+.navbar-nav > li > a:hover {
+	color: linen;
+	transition: 0.5s;
+}
+
+#banner {
+	background-image: url(../../img/bg.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.bg-nav {
+	background-color: #171515;
+	/*font-weight: bold;*/
+	
+}
+
+#logo {
+	width: 185px;
+	height: 65px;
+}
+.row-height {
+	height: 90vh;
+}
+
+.f-height {
+	height: 10vh;
+}
+
+.mt-6 {
+	margin-top: 90px;
+}
+
+/*.grp-btn {
+	background-color: #253D60;
+	color: linen;
+	font-weight: bold;
+	letter-spacing: 1px;
+	width: 150px;
+	hyphens: 20px;
+}
+.btn:hover {
+	color: #EB9027;
+	transition: 0.05s;
+
+}
+.btn:active {
+	color: #EB9027;
+	
+}*/
+
+/*.card > li > a {
+	background-color: #253D60;
+	color: linen;
+	font-weight: bold;
+	letter-spacing: 1px;
+	width: 150px;
+	hyphens: 20px;
+}
+
+.card > li > a:hover {
+	color: #EB9027;
+	transition: 0.05s;
+
+}*/
+
+.mr-6 {
+	margin-right: 100px;
+}
+
+.flex-column > li > a {
+	color: #FF9E5E;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.flex-column > li > a:hover {
+	color: linen;
+	transition: 0.1s;
+	font-size: 25px;
+}
